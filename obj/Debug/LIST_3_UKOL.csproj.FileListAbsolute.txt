@@ -1,0 +1,11 @@
+C:\Users\svehl\Desktop\PRG\TRETAK\LIST_3_UKOL\bin\Debug\LIST_3_UKOL.exe.config
+C:\Users\svehl\Desktop\PRG\TRETAK\LIST_3_UKOL\bin\Debug\LIST_3_UKOL.exe
+C:\Users\svehl\Desktop\PRG\TRETAK\LIST_3_UKOL\bin\Debug\LIST_3_UKOL.pdb
+C:\Users\svehl\Desktop\PRG\TRETAK\LIST_3_UKOL\obj\Debug\LIST_3_UKOL.csproj.AssemblyReference.cache
+C:\Users\svehl\Desktop\PRG\TRETAK\LIST_3_UKOL\obj\Debug\LIST_3_UKOL.csproj.SuggestedBindingRedirects.cache
+C:\Users\svehl\Desktop\PRG\TRETAK\LIST_3_UKOL\obj\Debug\LIST_3_UKOL.Form1.resources
+C:\Users\svehl\Desktop\PRG\TRETAK\LIST_3_UKOL\obj\Debug\LIST_3_UKOL.Properties.Resources.resources
+C:\Users\svehl\Desktop\PRG\TRETAK\LIST_3_UKOL\obj\Debug\LIST_3_UKOL.csproj.GenerateResource.cache
+C:\Users\svehl\Desktop\PRG\TRETAK\LIST_3_UKOL\obj\Debug\LIST_3_UKOL.csproj.CoreCompileInputs.cache
+C:\Users\svehl\Desktop\PRG\TRETAK\LIST_3_UKOL\obj\Debug\LIST_3_UKOL.exe
+C:\Users\svehl\Desktop\PRG\TRETAK\LIST_3_UKOL\obj\Debug\LIST_3_UKOL.pdb
